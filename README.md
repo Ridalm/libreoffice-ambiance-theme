@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/logo.png" alt="Ambiance logo" width="128">
+  <img src="logo.png" alt="Ambiance logo" width="512">
 </p>
 
 <p align="center">
@@ -13,8 +13,6 @@
 # Ambiance - LibreOffice Color Scheme
 
 A LibreOffice **Application Colors** scheme inspired by Ubuntu's Ambiance theme, with a light gray background and an orange accent color.
-
-![Screenshot](images/ekran.png)
 
 ### Colors
 
@@ -42,7 +40,7 @@ unopkg add Ambiance.oxt
 
 ### Usage
 
-Open **Tools > Options > LibreOffice > Application Colors** and choose **Ambiance** from the **Color scheme** list.
+Open **Tools > Options > LibreOffice > Appearance** and choose **Ambiance** from the **Themes** list.
 
 ### Known limitations
 
@@ -70,8 +68,6 @@ This extension was prepared based on the extension structure by [SilverGreen93](
 
 Ubuntu'nun Ambiance temasından esinlenen, açık gri zemin ve turuncu vurgu rengi kullanan bir LibreOffice **Uygulama Renkleri** şemasıdır.
 
-![Ekran görüntüsü](images/ekran.png)
-
 ### Renkler
 
 | Öğe | Renk |
@@ -98,7 +94,7 @@ unopkg add Ambiance.oxt
 
 ### Kullanım
 
-**Araçlar > Seçenekler > LibreOffice > Uygulama Renkleri** sayfasını açın ve **Renk şeması** listesinden **Ambiance**'ı seçin.
+**Araçlar > Seçenekler > LibreOffice > Görünüm** sayfasını açın ve **Temalar** listesinden **Ambiance**'ı seçin.
 
 ### Bilinen sınırlamalar
 
