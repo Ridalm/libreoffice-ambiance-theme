@@ -54,11 +54,10 @@ Select **Ambiance** in **Tools > Extension Manager** and click **Remove**. It is
 
 ### Credits
 
-This extension was prepared based on the extension structure by [SilverGreen93](https://github.com/SilverGreen93). [Delete this line if the work is entirely your own.]
-
+This extension was prepared based on the extension structure by [SilverGreen93](https://github.com/SilverGreen93).
 ### License
 
-[License name] - see the [LICENSE](LICENSE) file for details.
+MIT License. Based on the work of [SilverGreen93](https://github.com/SilverGreen93). See [LICENSE](LICENSE).
 
 ---
 
@@ -108,8 +107,7 @@ unopkg add Ambiance.oxt
 
 ### Kaynak ve teşekkür
 
-Bu eklenti, [SilverGreen93](https://github.com/SilverGreen93)'ün eklenti yapısından yola çıkılarak hazırlanmıştır. [Çalışma tamamen size aitse bu satırı silin.]
-
+Bu eklenti, [SilverGreen93](https://github.com/SilverGreen93)'ün eklenti yapısından yola çıkılarak hazırlanmıştır.
 ### Lisans
 
-[Lisans adı] - ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
+MIT Lisansı. [SilverGreen93](https://github.com/SilverGreen93)'ün çalışmasına dayanır. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
