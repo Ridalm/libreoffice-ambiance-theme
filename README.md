@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="logo.png" alt="Ambiance logo" width="512">
+  <img src="logo.png" alt="Ambiance logo">
+</p>
+
+<p align="center">
+  <img src="logo2.png" alt="Ambiance logo">
 </p>
 
 <p align="center">
