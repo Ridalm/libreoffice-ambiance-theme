@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="logo.png" alt="Ambiance logo">
+  <img src="logo.png" alt="Writer">
 </p>
 
 <p align="center">
-  <img src="logo2.png" alt="Ambiance logo">
+  <img src="logo2.png" alt="Calc">
 </p>
 
 <p align="center">
