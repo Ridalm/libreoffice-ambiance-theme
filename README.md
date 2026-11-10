@@ -28,7 +28,7 @@ A LibreOffice **Application Colors** scheme inspired by Ubuntu's Ambiance theme,
 
 ### Requirements
 
-- LibreOffice 7.x or later (the color scheme list is available in these versions)
+- LibreOffice 26.x or later (the color scheme list is available in these versions)
 
 ### Installation
 
@@ -81,7 +81,7 @@ Ubuntu'nun Ambiance temasından esinlenen, açık gri zemin ve turuncu vurgu ren
 
 ### Gereksinimler
 
-- LibreOffice 7.x veya üzeri (renk şeması listesi bu sürümlerde bulunur)
+- LibreOffice 26.x veya üzeri (renk şeması listesi bu sürümlerde bulunur)
 
 ### Kurulum
 
